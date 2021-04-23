@@ -1,0 +1,57 @@
+.container{
+    height: auto;
+    width:auto;
+    padding: 20px;
+}
+.bluebar img{
+    height: 200px;
+    position: relative;
+    width: 200px;
+    top: 100px;
+    left: 70px;
+}
+.bluebar{
+    background-color: aqua;
+    width: 1200px;
+    height: 200px;
+    margin:auto;
+}
+.maininfo{
+    width: 1195px;
+    height: 500px;
+    margin: auto;
+    margin-top: 0px;
+    border-color: grey;
+    border-style: solid;
+    border-top: none;
+}
+.text{
+    margin:0px auto;
+    position: relative;
+    top: 100px;
+}
+.text img{
+    padding-right:20px;
+    height:20px;
+}
+img{
+    height: 15px;
+}
+/* #map{
+    height:15px;
+} */
+h1 {
+    font-size: 70px;
+    top: 100px;
+    margin: 0px;
+    
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 30px;
+}
+.text{
+    margin-left: 40px;
+}
